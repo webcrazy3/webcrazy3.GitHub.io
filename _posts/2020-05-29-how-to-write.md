@@ -6,7 +6,7 @@ categories: blog
 tags: [python,while]
 description: continue。
 ---
-
+![python](https://raw.githubusercontent.com/webcrazy3/pic/master/maxwell-nelson-taiuG8CPKAQ-unsplash.jpg)
 公司的小朋友在学习python，做while循环和if条件判断的练习，结果给我也绕蒙了。看来还是基础不扎实。
 ### 记录下来：
 ```
